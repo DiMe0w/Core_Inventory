@@ -1,0 +1,83 @@
+[
+  {
+    "id": "2",
+    "name": "Отвертка",
+    "quantity": 50,
+    "price": 45,
+    "status": "available",
+    "employee": "Петров Петр",
+    "dateAdded": "2025.01.11"
+  },
+  {
+    "id": "3",
+    "name": "Молоток",
+    "quantity": 20,
+    "price": 85.75,
+    "status": "available",
+    "employee": "Сидоров Сидор",
+    "dateAdded": "2025.01.09"
+  },
+  {
+    "id": "4",
+    "name": "Перфоратор",
+    "quantity": 5,
+    "price": 3200,
+    "status": "not available",
+    "employee": "Кузнецова Анна",
+    "dateAdded": "2025.01.08"
+  },
+  {
+    "id": "6",
+    "name": "Шуруповерт",
+    "quantity": 5,
+    "price": 2400.5,
+    "status": "available",
+    "employee": "Иванов Иван",
+    "dateAdded": "16.01.2025"
+  },
+  {
+    "id": "7",
+    "name": "Тиски",
+    "quantity": 4,
+    "price": 650,
+    "status": "available",
+    "employee": "Петров Петр",
+    "dateAdded": "2025.01.17"
+  },
+  {
+    "id": "8",
+    "name": "Плоскогубцы",
+    "quantity": 30,
+    "price": 75.2,
+    "status": "available",
+    "employee": "Сидоров Сидор",
+    "dateAdded": "2025.01.05"
+  },
+  {
+    "id": "9",
+    "name": "Лобзик",
+    "quantity": 15,
+    "price": 950.99,
+    "status": "available",
+    "employee": "Горшков Олег",
+    "dateAdded": "2025.01.15"
+  },
+  {
+    "id": "10",
+    "name": "Шлифовальная машина",
+    "quantity": 77,
+    "price": 4150.75,
+    "status": "available",
+    "employee": "Иванова Мария",
+    "dateAdded": "16.01.2025"
+  },
+  {
+    "name": "Компьютерный стол",
+    "quantity": 450,
+    "price": 10255,
+    "status": "available",
+    "employee": "Алексей Фоменко",
+    "dateAdded": "17.01.2025",
+    "id": "11"
+  }
+]
